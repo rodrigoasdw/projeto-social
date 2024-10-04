@@ -1,8 +1,7 @@
 @charset "UTF-8";
 
 *{
-    margin: 0px;
-    padding: 0px;
+ 
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -30,8 +29,8 @@ body{
     transform: translate(-50%, -50%);
     
 
-    height: 630px;
-    width: 310px;
+   height: 630px;
+   width: 310px;
    
     background: url('../imagens/frame-iphone.png') no-repeat;
 }
